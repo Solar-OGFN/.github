@@ -1,6 +1,6 @@
 # Hi There :wave:
 
-Welcome To Origin's Organization.
+Welcome To Solar's Organization.
 
 # Developers That Contributed / Are Contributing
 - Tezzy
